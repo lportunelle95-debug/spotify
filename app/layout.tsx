@@ -32,7 +32,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
 
   //* Providers & Components
   return (
-    <html lang="en">
+    <html lang="en" translate="no">
       <head>
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="../images/apple-touch-icon.png" />
